@@ -322,7 +322,7 @@
     "title": "Eksekusi Jarak Jauh"
   },
   "go_to_home": "Kembali ke Beranda",
-  "home_title": "Pemantau Komari",
+  "home_title": "ServerStatus",
   "just_now": "Baru saja",
   "loadAlert": {
     "metric": "Metrik",
@@ -335,7 +335,7 @@
     "title": "Log"
   },
   "login": {
-    "desc": "Masuk ke panel kontrol Komari.",
+    "desc": "Masuk ke panel kontrol ServerStatus.",
     "login_with": "Masuk dengan {{provider}}",
     "login_with_github": "Masuk dengan GitHub",
     "password": "Kata Sandi",
@@ -425,7 +425,7 @@
     "can_install": "Dapat Diinstal",
     "install": "Instal",
     "install_prompt_desc": "Tambahkan ke layar utama untuk akses cepat",
-    "install_prompt_title": "Instal Komari Monitor",
+    "install_prompt_title": "Instal ServerStatus",
     "install_status": "Status Instalasi",
     "installed": "Terinstal",
     "installed_hint": "Aplikasi telah terinstal di perangkat Anda, Anda dapat mengaksesnya dengan cepat dari layar utama.",

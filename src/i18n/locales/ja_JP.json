@@ -322,7 +322,7 @@
     "title": "リモート実行"
   },
   "go_to_home": "ホームに戻る",
-  "home_title": "Komari Monitor",
+  "home_title": "ServerStatus",
   "just_now": "たった今",
   "loadAlert": {
     "metric": "監視項目",
@@ -335,7 +335,7 @@
     "title": "ログ"
   },
   "login": {
-    "desc": "Komari コントロールパネルにログインします。",
+    "desc": "ServerStatus コントロールパネルにログインします。",
     "login_with": "{{provider}} でログイン",
     "login_with_github": "GitHubでログイン",
     "password": "パスワード",
@@ -425,7 +425,7 @@
     "can_install": "インストール可能",
     "install": "インストール",
     "install_prompt_desc": "主画面に追加して迅速にアクセス",
-    "install_prompt_title": "Komariをインストール",
+    "install_prompt_title": "ServerStatusをインストール",
     "install_status": "インストール状況",
     "installed": "インストール済み",
     "installed_hint": "このアプリはデバイスにインストールされており、主画面から迅速にアクセスできます。",

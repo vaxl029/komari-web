@@ -322,7 +322,7 @@
     "title": "遠程執行"
   },
   "go_to_home": "回到首頁",
-  "home_title": "Komari Monitor",
+  "home_title": "ServerStatus",
   "just_now": "剛剛",
   "loadAlert": {
     "metric": "監控項",
@@ -335,7 +335,7 @@
     "title": "日誌"
   },
   "login": {
-    "desc": "登入到 Komari 控制面板。",
+    "desc": "登入到 ServerStatus 控制面板。",
     "login_with": "使用 {{provider}} 登入",
     "login_with_github": "使用 GitHub 登入",
     "password": "密碼",
@@ -425,7 +425,7 @@
     "can_install": "可以安裝",
     "install": "安裝",
     "install_prompt_desc": "添加到主畫面以快速訪問",
-    "install_prompt_title": "安裝 Komari",
+    "install_prompt_title": "安裝 ServerStatus",
     "install_status": "安裝狀態",
     "installed": "已安裝",
     "installed_hint": "該應用程式已安裝在設備上，您可以從主畫面快速訪問它。",
